@@ -1,3 +1,5 @@
+![Simple Presentation in Pink Lilac Pastel Blobs Basic Style](https://github.com/diya1094/diya1094/assets/135355038/77a90ce1-3dab-4797-b57a-1686871a3884)
+
 Hi! I am Diya Shah, a third-year computer science student, I have a good foundation in computer science and am currently honing my skills in web development, C++, Java and Data Analysis. 
 Beyond technical skills, I possess strong abilities in writing and management. I firmly believe that effective communication and organizational skills are essential for any computer science professional, facilitating better teamwork, clearer project goals, and more efficient workflows.
 My academic journey has equipped me with a robust understanding of these areas, and I am eager to apply this knowledge in practical, real-world scenarios.
