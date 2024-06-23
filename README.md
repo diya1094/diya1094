@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diya Shah</h1>
-<h3 align="center">A aspiring frontend developer and data analyst</h3>
+<h3 align="center">A aspiring Web Developer and Data Analyst</h3>
 
 - 🌱 I’m currently learning **JavaScript and Power BI**
 
