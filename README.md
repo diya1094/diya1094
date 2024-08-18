@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diya Shah</h1>
 <h3 align="center">An Aspiring Web Developer and Data Analyst</h3>
 
-- 🌱 I’m currently learning **JavaScript and Power BI**
+- 🌱 I’m currently learning **JavaScript and PHP**
 
 - 📫 How to reach me **shah.diya1094@gmail.com**
 
