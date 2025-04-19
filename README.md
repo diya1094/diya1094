@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diya Shah</h1>
-<h3 align="center">An Aspiring Web Developer</h3>
-
-- 🌱 I’m currently learning **JavaScript and PHP**
+<h3 align="center">An Aspiring Developer</h3>
 
 - 📫 How to reach me **shah.diya1094@gmail.com**
 
