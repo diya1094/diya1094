@@ -17,6 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diya1094&show_icons=true&locale=en&layout=compact" alt="diya1094" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diya1094&show_icons=true&locale=en" alt="diya1094" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diya1094&" alt="diya1094" /></p>
