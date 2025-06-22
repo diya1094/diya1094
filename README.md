@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI/ML and Kotlin**
 
-- - 📫 How to reach me **shah.diya1094@gmail.com**
+- 📫 How to reach me **shah.diya1094@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
