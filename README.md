@@ -33,7 +33,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/></a>&nbsp;
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/></a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/></a>&nbsp;
+<a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="40" height="40"/>
+</a>&nbsp;
 </p> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diya1094&show_icons=true&locale=en&layout=compact" alt="diya1094" /></p>
