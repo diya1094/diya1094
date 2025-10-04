@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diya Shah</h1>
-<h3 align="center">Android Developer and AI/ML Explorer</h3>
+<h3 align="center">AI/ML Explorer</h3>
 
-- 🔭 I’m currently working on **Essence: Real Estate App**
-- 🌱 I’m currently learning **AI/ML and Kotlin**
+- 🌱 I’m currently learning **AI/ML **
 - 📫 How to reach me **shah.diya1094@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
