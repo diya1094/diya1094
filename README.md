@@ -36,6 +36,18 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/></a>&nbsp;
 <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="xampp" width="40" height="40"/>
 </a>&nbsp;
+ <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" alt="digitalocean" width="40" height="40"/>
+</a>&nbsp;
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="90" height="40"/>
+</a>
+<a href="https://n8n.io/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/500px-N8n-logo-new.svg.png" alt="n8n" width="140" height="40" style="vertical-align:middle;">
+</a>&nbsp;
+
+
+
 </p> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diya1094&show_icons=true&locale=en&layout=compact" alt="diya1094" /></p>
