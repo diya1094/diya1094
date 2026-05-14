@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diya Shah</h1>
-<h3 align="center">AI/ML Explorer</h3>
+<h3 align="center">AI Engineer</h3>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently working and learning furhter in **AI and its automation**
 - 📫 How to reach me **shah.diya1094@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
